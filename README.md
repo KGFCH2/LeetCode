@@ -1,7 +1,7 @@
 # 🧠 LeetCode Solutions
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 This repository showcases my daily LeetCode problem solutions. I continuously upload my solved codes here as part of my coding practice and learning journey. 💻🚀
 
