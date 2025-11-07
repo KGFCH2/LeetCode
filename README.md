@@ -1,6 +1,6 @@
 # 🧠 LeetCode Solutions
 
-[![Python](https://img.shields.io/badge/Python-3.13.9+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.13.9-blue.svg)](https://www.python.org/)
 
 
 This repository showcases my daily LeetCode problem solutions. I continuously upload my solved codes here as part of my coding practice and learning journey. 💻🚀
